@@ -1,0 +1,16 @@
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\deligatePractice.exe
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\deligatePractice.deps.json
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\deligatePractice.runtimeconfig.json
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\deligatePractice.runtimeconfig.dev.json
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\deligatePractice.dll
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\ref\deligatePractice.dll
+C:\Users\akgoel\source\repos\deligatePractice\bin\Debug\net5.0\deligatePractice.pdb
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.csproj.AssemblyReference.cache
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.AssemblyInfoInputs.cache
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.AssemblyInfo.cs
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.csproj.CoreCompileInputs.cache
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.dll
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\ref\deligatePractice.dll
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.pdb
+C:\Users\akgoel\source\repos\deligatePractice\obj\Debug\net5.0\deligatePractice.genruntimeconfig.cache
